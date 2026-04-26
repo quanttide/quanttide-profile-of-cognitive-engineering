@@ -1,2 +1,3 @@
-# quanttide-profile-of-cognitive-engineering
-量潮认知工程档案
+# 量潮认知工程简介
+
+记录心智模型和情境意识等代表性认知工程信息。
