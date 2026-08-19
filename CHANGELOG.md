@@ -2,6 +2,19 @@
 
 ## [Unreleased]
 
+## [0.1.0] - 2026-08-19
+
+### 新增
+
+- 世界档案体系：9 个世界（business / data / meta / org / product / sale / strategy / think / write）的 index / schema / situation 三文件档案
+- 图式（schema）：采用 CWA 抽象层级框架（目的 / 实体 / 手段-目的 / 约束 / 行动）
+- 情境（situation）：采用 Endsley 情境意识框架（感知 L1 / 理解 L2 / 预测 L3 / 决策）
+- 认知状态档案（index）：核心目标 / 当前认知状态 / 焦点与下一步 / 待验证与张力 / 相关档案 / 来源
+
+### 变更
+
+- 旧格式（quanttide-founder 周快照、quanttide 图式目录）移至 archive 仓库归档（data/archive/profile）
+
 ## [0.0.2] - 2026-03-04
 
 ### 新增
