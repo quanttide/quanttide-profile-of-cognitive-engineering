@@ -74,7 +74,7 @@ status: draft
 - ❓ 思考云与 insight/intention 的关系是否稳定（当前判断：insight 优先）？
 - ⚠️ 开源边际资产 vs 核心想法私有化，边界在哪？
 - ⚠️ 简单 vs 反直觉、试错 vs 看准：商业世界的张力，见商业档案。
-- ⚠️ 公司作为「大型文导小组」，人与系统如何协作、组织文化如何塑造（属组织世界）。
+- ⚠️ 公司作为「大型无领导小组」，人与系统如何协作、组织文化如何塑造（属组织世界）。
 
 ## 相关档案
 
@@ -86,7 +86,7 @@ status: draft
 - **销售**：`quanttide-sale/index.md`（销售对具体的人）
 - **产品**：`quanttide-product/index.md`（文档先行、交付边界）
 - **数据**：`quanttide-data/index.md`（项目档案化）
-- **组织**：`quanttide-org/index.md`（文导小组）
+- **组织**：`quanttide-org/index.md`（无领导小组）
 - **写作**：`quanttide-write/index.md`（叙事工程）
 
 ## 来源
@@ -95,4 +95,4 @@ status: draft
 - 交付物、思考云与 insight 的关系：`journal/quanttide-think/2026-08-17.md`、`2026-08-19.md`
 - 认知收敛、内外边界、旧格式废弃：`journal/quanttide-meta/2026-08-17.md`
 - 认知工具链前置：`journal/default/2026-07-16.md`
-- 文导小组：`journal/quanttide-org/2026-08-19.md`
+- 无领导小组：`journal/quanttide-org/2026-08-19.md`
