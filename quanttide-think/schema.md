@@ -105,4 +105,4 @@
 
 **来源**：`journal/default/2026-07-16.md`、`2026-08-14.md`、`2026-08-16.md`、`2026-08-17.md`；`journal/quanttide-think/2026-08-17.md`、`2026-08-19.md`；`journal/quanttide-meta/2026-08-17.md`。
 
-**说明**：叙事工程「大改小改精修」循环属写作世界，待 `quanttide-write/schema.md` 提炼。
+**说明**：叙事工程「大改小改精修」循环属写作世界，见 `quanttide-write/schema.md`。

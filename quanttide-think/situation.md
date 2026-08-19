@@ -69,4 +69,4 @@
 
 **来源**：`journal/default/2026-07-16.md`、`2026-08-14.md`、`2026-08-16.md`、`2026-08-17.md`；`journal/quanttide-think/2026-08-17.md`、`2026-08-19.md`；`journal/quanttide-meta/2026-08-17.md`。
 
-**说明**：团队认知瓶颈中的组织文化部分（「大型文导小组」）属组织世界，待 `quanttide-org/index.md` 展开。
+**说明**：团队认知瓶颈中的组织文化部分（「大型文导小组」）属组织世界，见 `quanttide-org/index.md`。
